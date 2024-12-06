@@ -13,7 +13,7 @@ This Github repository is a template that can be used to create your own reposit
 
 ### Getting Started Guide
 
-For developers new to XM Cloud you can follow the Getting Started Guide on the [Sitecore Documentation Site](https://doc.sitecore.com/xmc) to get up and running with XM Cloud. This will walk you through the process of creating a new XM Cloud Project, provisioning an Environment, deploying the NextJs Starter Kit, and finally creating your first Component.
+For developers new to XM Cloud you can follow the Getting Started Guide on the [Sitecore Documentation Site](https://doc.sitecore.com/xmc) to get up and running with XM Cloud. This will walk you through the process of creating a new XM Cloud Project, provisioning an Environment, deploying the Next.js Starter Kit, and finally creating your first Component.
 
 ### Running the Next.js Starter Kit
 
@@ -29,9 +29,15 @@ For developers new to XM Cloud you can follow the Getting Started Guide on the [
   ```
 - You should now be able to access your site on `http://localhost:3000` and see your changes in real-time as you make them.
 
-### SPA Starters Monorepo and Angular SPA
+### SPA Starter kit *[TODO] - update the description*
 
-A new starter SPA based on Angular has been introduced with JSS v22.3.0. The Angular starter has been designed to be compatible with XM Cloud and should be used with the provided node XM Cloud proxy application to handle server-side rendering (SSR), data queries, personalization and more. For more details and information on how to run and deploy the Angular starter and proxy to XM Cloud have a look at [SPA starters monorepo](headapps/spa-starters/)
+A new starter SPA Starter kit has been introduced and designed to be compatible with XM Cloud. For more details and information on how to run and deploy the SPA starter and proxy to XM Cloud have a look at [SPA starters monorepo](headapps/spa-starters/)
+
+### XM Cloud Proxy *[TODO] - update the description*
+
+### Angular Starter kit *[TODO] - update the description*
+
+The Angular starter has been designed to be compatible with XM Cloud. For more details and information on how to run and deploy the Angular starter and proxy to XM Cloud have a look at [SPA starters monorepo](headapps/spa-starters/)
 
 ## Disconnected offline development
 
